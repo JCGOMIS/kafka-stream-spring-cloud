@@ -1,0 +1,1 @@
+Un Supplier est un producer sous forme d'un puller qui permet de produire des message en interval de secondes
